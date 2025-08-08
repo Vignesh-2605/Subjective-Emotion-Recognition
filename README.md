@@ -110,5 +110,5 @@ streamlit run app.py
 
 ## 👨‍💻 Author  
 **Vignesh S**  
-B.Tech AI&ML @ Saveetha School of Engineering  
+B.Tech AI&ML @ SIMATS Engineering  
 📧 **vickymsd3157@gmail.com**  
