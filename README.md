@@ -1,5 +1,4 @@
 # 🎤 Emotion Recognition from Voice  
-
 A complete **end-to-end audio-based machine learning project** that detects human emotions from voice recordings using advanced **audio feature extraction techniques** and a **Multi-Layer Perceptron (MLP) classifier**.  
 The system supports **real-time predictions** and **model training** directly from an interactive **Streamlit dashboard**.  
 
