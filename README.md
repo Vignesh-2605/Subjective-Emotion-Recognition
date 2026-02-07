@@ -68,7 +68,6 @@ The system supports **real-time predictions** and **model training** directly fr
 
 - These mathematical outputs are displayed in the Streamlit interface for interpretability.
 
----
 
 ### 2. CNN Feature Learning and Classification
 - Instead of handcrafted features, a Convolutional Neural Network (CNN) learns patterns directly from spectrogram images.
@@ -80,7 +79,6 @@ The system supports **real-time predictions** and **model training** directly fr
   -Softmax Emotion Classification
 - Achieves target accuracy of 90% and above on emotional speech datasets.
 
----
 
 ### 3. Data Augmentation for CNN
 - To enhance robustness and generalization, the CNN pipeline applies:
