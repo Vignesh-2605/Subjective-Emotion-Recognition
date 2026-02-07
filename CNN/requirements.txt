@@ -1,0 +1,8 @@
+numpy
+librosa
+opencv-python
+tensorflow
+scikit-learn
+scipy
+streamlit
+matplotlib
